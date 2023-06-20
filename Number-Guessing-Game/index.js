@@ -69,5 +69,4 @@ function checkGuess() {
   guessInput.focus();
 }
 
-// Start the game initially
 startGame();
